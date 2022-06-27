@@ -1,0 +1,5 @@
+export enum GameStatus {
+    IN_PROGRESS = "IN_PROGRESS",
+    PLAYER_WINS = "PLAYER_WINS",
+    PLAYER_LOSES = "PLAYER_LOSES",
+}
